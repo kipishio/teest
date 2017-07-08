@@ -5,4 +5,5 @@
 
 Vetka  ney
 1004
-os002
+
+os002tavit vse002
